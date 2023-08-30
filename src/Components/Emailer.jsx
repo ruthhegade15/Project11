@@ -4,7 +4,7 @@ function Emailer() {
   return (
     <>
       <div>
-        Hello i am Emailer
+        Hello i am
       </div>
     </>
   )
